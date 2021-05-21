@@ -13,8 +13,6 @@ set diameter(diameter){
         this.radius = diameter / 2;
     }
 
-
-
 get circumference(){
         return Math.PI * this.diameter;
     }
